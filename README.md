@@ -24,7 +24,7 @@ $ yarn
 ```
 
 ### Executando
-Após instalar todas as dependências, execute os comandos:
+Após instalar todas as dependências, execute o comando:
 
 ```ssh
 $ yarn dev
