@@ -127,6 +127,8 @@ function Timeline(){
           <div class="info">
             <strong>Alexandre Macedo <span>@alexandre</span></strong>
             <p>Conteudo do tweet</p>
+            
+            <img src={background} className="post" alt="Tweet image"/>
             <div className="actions">
               <a href=""><img src={comments} alt="Comment"/> 3</a>
               <a href=""><img src={retweet} alt="Retweet"/> 4</a>
