@@ -24,7 +24,7 @@ $ yarn
 ```
 
 ### Executando
-Após instalar todas as dependências, execute os comandos:
+Após instalar todas as dependências, execute o comando:
 
 ```ssh
 $ yarn dev
@@ -41,6 +41,6 @@ $ yarn dev
 
 
 # License
-The rocketseat-server-gympoint-challenge is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The twitter-feed-clone is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
