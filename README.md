@@ -41,6 +41,6 @@ $ yarn dev
 
 
 # License
-The rocketseat-server-gympoint-challenge is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The twitter-feed-clone is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
