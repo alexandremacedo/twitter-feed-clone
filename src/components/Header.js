@@ -1,7 +1,7 @@
 import React from 'react'
 
 import logo from '../assets/logo.svg'
-import avatar from '../assets/avatar.png'
+import avatar from '../assets/avatar.jpg'
 import home from '../assets/home.svg'
 import notification from '../assets/notification.svg'
 import message from '../assets/message.svg'

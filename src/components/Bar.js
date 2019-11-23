@@ -2,39 +2,37 @@ import React from 'react'
 import more from '../assets/more.svg'
 function Bar(){
   return (
-    <>
     <div className="bar">
       <div className="content">
         <ul>
           <li className="active">
             <span>Tweets</span>
-            <strong>1234</strong>
+            <strong>164</strong>
           </li>
           <li>
             <span>Followings</span>
-            <strong>1234</strong>
+            <strong>245</strong>
           </li>
           <li>
             <span>Followers</span>
-            <strong>1234</strong>
+            <strong>137</strong>
           </li>
           <li>
             <span>Favorites</span>
-            <strong>1234</strong>
+            <strong>28</strong>
           </li>
           <li>
             <span>Lists</span>
-            <strong>1234</strong>
+            <strong>9</strong>
           </li>
           <li>
             <span>Moments</span>
-            <strong>1234</strong>
+            <strong>13</strong>
           </li>
         </ul>
         <Actions />
       </div>
     </div>
-    </>
   )
 }
 
